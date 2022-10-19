@@ -7,3 +7,4 @@
 2. Второй навык 
 3. Третий навык 
 
+![Мое фото](https://user-images.githubusercontent.com/115327311/196572282-079ec2db-838e-4e62-ba7b-cb828794c39e.JPG)
